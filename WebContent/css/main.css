@@ -1,0 +1,10 @@
+#station td{
+	color:white;
+}
+#station td:hover{
+	cursor:pointer;
+	color:black;
+}
+#station td.clicked{
+	color:black;
+}
